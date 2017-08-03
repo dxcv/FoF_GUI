@@ -68,7 +68,7 @@ class MainWindow(QMainWindow):
 
 
     def about(self):
-        QMessageBox.about(self, "About", \
+        QMessageBox.about(self, "About - V1.0", \
         '''投顾复盘系统V1.0版本\n\n开发人员： 张晨、史龙龙\n\n日期：2017-06-14''')
 
     def center(self):
