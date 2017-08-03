@@ -15,6 +15,8 @@ Risk Parity in FoF
 Risk Parity Portfolio vs. Pure stocks
 Risk Parity Portfolio vs. 60/40(stocks/bonds)
 
+RC(Risk Contribution)i = wi*(Vw)i/(w'Vw)
+
 二、在FOF中的应用
 1）对解决资产配置问题有极强的现实意义（沪深300、纳斯达克100、上证5年国债、布伦特原油及上期黄金）；
 2）在不同市场环境下，风险平价FOF对各类资产都有相同的风险暴露；
@@ -31,3 +33,39 @@ Risk Parity Portfolio vs. 60/40(stocks/bonds)
 上证5年期国债
 布伦特原油连续
 上期所黄金连续
+
+行业配置类FOF实证研究
+10个Wind行业分类
+
+三、基于风险因子的风险平价
+1）风险的定性，明确分散的是何种风险；
+2）借用多元统计分析的因子模型将收益率分解到因子中（Risk Budgeting）；
+3）资产风险均衡不等同于因子的风险均衡；
+4）风险因子平价组合的波动率和最大回撤低；
+5）风险因子模型可帮助通过风险预算调整组合权重。
+
+风险因子没有明确的价格或收益率序列，需要通过模型从资产收益率中提取。
+
+FOF组合：
+1)Convertible Arbitrage, 2)Short-selling, 3)Emerging Market, 4)Market Neutral, 5)Event-driven,
+6)Fixed-income Arbitrage, 7)Global-Macro, 8)Equity Long/Short, 9)Managed Futures, and 10)Multi-strategy.
+
+价值加权（Asset-weighted）：以构成次级指数的基金产品的总规模为权重；
+资产风险平价加权（ERC-weighted）：令10个次级指数的风险贡献度相等；
+因子风险平价加权（Factor-weighted）：使用主成分分析法提取风险因子，并要求前4个因子的风险贡献度相等。
+
+月度再平衡
+
+7大常见的经济指标分成四大类：
+1）经济活动：GDP和工业生产值
+2）通货膨胀：消费品价格和大宗商品价格
+3）利率：实际利率和收益率曲线斜率
+4）货币：实际有效汇率
+
+四大类、13中不同资产：
+1）股票：美国、欧洲、英国和日本；
+2）主权债；
+3）企业债：美国和欧洲市场；
+4）通胀保值债券（TIPS）：美国政府发行
+
+
