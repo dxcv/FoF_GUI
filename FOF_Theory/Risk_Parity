@@ -17,6 +17,7 @@ Risk Parity Portfolio vs. 60/40(stocks/bonds)
 
 RC(Risk Contribution)i = wi*(Vw)i/(w'Vw)
 
+
 二、在FOF中的应用
 1）对解决资产配置问题有极强的现实意义（沪深300、纳斯达克100、上证5年国债、布伦特原油及上期黄金）；
 2）在不同市场环境下，风险平价FOF对各类资产都有相同的风险暴露；
@@ -36,6 +37,7 @@ RC(Risk Contribution)i = wi*(Vw)i/(w'Vw)
 
 行业配置类FOF实证研究
 10个Wind行业分类
+
 
 三、基于风险因子的风险平价
 1）风险的定性，明确分散的是何种风险；
@@ -69,3 +71,5 @@ FOF组合：
 4）通胀保值债券（TIPS）：美国政府发行
 
 
+四、风险度量指标（VaR,CVaR,Expected Shortfall)
+1）ES作为风险度量指标下，
